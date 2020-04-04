@@ -1,2 +1,2 @@
 # ImageIssue
-![Screen video](https://github.com/stefangerard/ImageIssue/blob/master/Screen-Video.gif?raw=true)
+![Screen video](https://github.com/stefangerard/ImageIssue/blob/master/ScreenVideoOptimized.gif?raw=true)
